@@ -20,7 +20,7 @@ if (!$comment) $errors[count($errors)] = 'Please enter your comment.';
 if (!$errors) {
 
 	//recipient - replace your email here
-	$to = 'wowthemesnet@gmail.com';	
+	$to = 'info@powermovesdev.com';	
 	//sender - from the form
 	$from = $name . ' <' . $email . '>';
 	
@@ -35,8 +35,8 @@ if (!$errors) {
 	
 	//if POST was used, display the message straight away
 	if ($_POST) {
-		if ($result) echo 'Thank you! We have received your message.';
-		else echo 'Sorry, unexpected error. Please try again later';
+		if ($result) echo 'Thank you! your. be sure to look out for our email in the next hour';
+		else echo 'Looks like something went wrong, Please try again';
 		
 	//else if GET was used, return the boolean value so that 
 	//ajax script can react accordingly

@@ -2,14 +2,14 @@
 .nav-bar > li:hover, .nav-bar > li a:hover  { color: #749f93;}
 .nav-bar > li.active > a { }
 ul.flyout li a:hover, .nav-bar li ul li a:hover {color:#749f93;}
-.flyout {border-top:2px solid #33877d;}
-.sectiontitle {border-left: 4px solid #33877d;}
+.flyout {border-top:2px solid #ffc600;}
+.sectiontitle {border-left: 4px solid #ffc600;}
 ::-moz-selection{background:#33877d;color:#fff;}
 ::selection{background:#33877d;color:#fff;}
 .ca-menu li:hover .ca-main {color: #33877d;}
-.topborder { border-top:4px solid #33877d;}
+.topborder { border-top:4px solid #ffc600;}
 .readmore {background:#33877d;}
- #subheader {background: #33877d;border-top: 1px solid #33877d; color: #eee;}
+ #subheader {background: #4b490b;border-top: 1px solid #ffc600; color: #eee;}
  #subheader a {color: #eee;}
  #subheader a:hover {color: #fff;}
  .readmore {background:#33877d;}
@@ -21,9 +21,9 @@ ul.flyout li a:hover, .nav-bar li ul li a:hover {color:#749f93;}
 dl.tabs dd.active { border-bottom: 3px solid #33877d;}
 ul.accordion > li.active {border-top: 3px solid #33877d;}
 div.alert-box.default { background-color: #33877d;}
-.slide {	margin: 0;	padding: 0;	border-top: solid 4px #33877d;}
-.btn-slide {	background:#33877d url(../../images/plus.png) no-repeat;}
-.btn-slide.active { background: #33877D url(../../images/minus.png) no-repeat;}
+.slide {	margin: 0;	padding: 0;	border-top: solid 4px #ffc600;}
+.btn-slide {	background:#ffc600 url(../../images/plus.png) no-repeat;}
+.btn-slide.active { background:#ffc600 url(../../images/minus.png) no-repeat;}
 #footer {border-top:#33877D 4px solid;}
 .back-top a:hover{background-color: #33877D;}
 .sf-shadow ul {border-top:2px solid #33877D;}
